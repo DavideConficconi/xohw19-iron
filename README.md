@@ -11,7 +11,7 @@ It provides an additional abstraction layer leveraging the [PYNQ framework](http
 
 
 
-## Tested environment
+## Testing environment
 * A [Ultra96 board](http://zedboard.org/product/ultra96)
 * A [Ultra96 PYNQ image](https://github.com/Avnet/Ultra96-PYNQ/releases)
 * OpenCV library, [repo link](https://github.com/opencv/opencv) (for pure software on a different machine, PYNQ included) **(°)**
