@@ -1,6 +1,6 @@
 # IRON: Image RegistratiOn oN FPGA repository
 
-This repository contains the source code of the IRON project.
+This repository contains the source code of the IRON project. <img align="right" src="images/IRON.png" alt="float" width="300"/>
 
 It is a sw-hw framework for Image Registration able to provide pure-sw or sw-hw execution of the Image Registration (IR) based on Mutual Information (MI).
 The approach is based on Multimodality image registration by maximization of mutual information, *Maes, Frederik and Collignon, Andre and Vandermeulen, Dirk and Marchal, Guy and Suetens, Paul*.
